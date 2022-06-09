@@ -13,7 +13,7 @@ export const HorizontalCard = ({ cartItem }) => {
 
   return (
     <div className="card-hz flex-row">
-      <img className="hr-image" src={image} alt="book cover photo" />
+      <img className="hr-image" src={image} alt={brand} />
       <div className="cart-card-body">
         <p className="fs-btw-ml">{brand}</p>
         <p className="card-sell-price">
