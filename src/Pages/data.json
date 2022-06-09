@@ -1,0 +1,58 @@
+[
+{
+    "id":1,
+    "brand":"Adidas",
+    "size":"M",
+    "gender":"Male",
+    "price":799,
+    "discount":15,
+    "image":"https://rukminim1.flixcart.com/image/503/604/ktizdzk0/sweatshirt/d/o/o/m-h16228-adidas-original-imag6ux9xbhdw4er.jpeg?q=50"
+},{
+    "id":2,
+    "brand":"Adidas",
+    "size":"XL",
+    "gender":"Male",
+    "price":559,
+    "discount":13,
+
+    "image":"https://rukminim1.flixcart.com/image/503/604/jvqzo280/t-shirt/j/p/f/m-fj9216-adidas-original-imafgkj5ktfuzzhg.jpeg?q=50"
+},{
+    
+    "id":3,
+    "brand":"Adidas",
+    "size":"S",
+    "gender":"Female",
+    "price":655,
+    "discount":22,
+
+    "image":"https://rukminim1.flixcart.com/image/503/604/kmkxbww0/t-shirt/m/p/u/s-gm5190-adidas-original-imagfg58j47f3jfe.jpeg?q=50"
+},{
+    "id":4,
+    "brand":"Adidas",
+    "size":"XL",
+    "gender":"Female",
+    "price":899,
+    "discount":20,
+
+    "image":"https://rukminim1.flixcart.com/image/503/604/k3ahbww0/t-shirt/m/4/9/s-eb6367-adidas-original-imafmaz6cvnefhkp.jpeg?q=50"
+}
+,{
+    "id":5,
+    "brand":"Adidas",
+    "size":"S",
+    "gender":"Male",
+    "price":1099,
+    "discount":18,
+
+    "image":"https://rukminim1.flixcart.com/image/503/604/jx502vk0/t-shirt/8/h/j/m-fj9217-adidas-original-imafhzbcqpbm5trb.jpeg?q=50"
+},{
+    "id":6,
+    "brand":"Spykar",
+    "size":"L",
+    "gender":"Male",
+    "price":550,
+    "discount":10,
+    "image":"https://rukminim1.flixcart.com/image/503/604/kyhlfgw0/shirt/k/g/g/-original-imagapnte69zrztf.jpeg?q=50"
+}
+
+]

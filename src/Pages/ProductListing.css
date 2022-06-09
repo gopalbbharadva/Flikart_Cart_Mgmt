@@ -1,0 +1,10 @@
+.flex-container {
+  display: flex;
+}
+
+.grid-40 {
+  width: 100%;
+  display: grid;
+  align-items: flex-start;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+}

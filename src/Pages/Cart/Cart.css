@@ -1,0 +1,85 @@
+.cart-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px 20px;
+  position: relative;
+}
+.card-item {
+  display: grid;
+  gap: 10px;
+}
+
+/* Bill item */
+.w-100 {
+  width: 100%;
+}
+.coupon-area {
+  border: var(--card_border);
+  color: var(--Primary_Color);
+  margin-bottom: 5px;
+}
+.coupon-area button {
+  color: var(--Color_Black);
+}
+.coupon-area button:hover {
+  color: var(--Primary_Color);
+}
+
+.bill {
+  position: sticky;
+  top: 8rem;
+  margin: 0 1rem;
+  background-color: var(--Color_White);
+  padding: 0 1rem 1rem 1rem;
+}
+
+.bill-heading {
+  border-bottom: 1px solid var(--Primary_Color);
+}
+.bill-heading h3 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+.bill-info {
+  padding: 1rem 0 0 0;
+  border-bottom: 1px solid var(--Primary_Color);
+}
+.col-80 {
+  opacity: 0.7;
+}
+.total-text,
+.total-value {
+  font-size: 1.25rem;
+}
+.is-secondary {
+  background-color: var(--Secondary_Color);
+  color: var(--Color_White);
+}
+.is-secondary:hover {
+  background-color: var(--Secondary_Hover_Color);
+}
+
+.msg {
+  padding: 1rem 0 4px 0;
+}
+.bill-info div {
+  padding-bottom: 10px;
+}
+.row-detail {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-green {
+  color: var(--Color_Success_600);
+}
+.text-yellow {
+  font-weight: 800;
+  color: var(--Color_Warn_500);
+}
+.text-red {
+  font-weight: 800;
+  color: var(--Color_Danger_500);
+}
